@@ -6,12 +6,13 @@ After graduating with a Master's degree in communication in Paris, I decided to 
 
 💻 My skills
 
-![768px-HTML5_logo_and_wordmark svg](https://user-images.githubusercontent.com/94058870/179918701-7ab279f8-36e3-4638-ab88-b08c0db24677.png)
-![CSS3_logo_and_wordmark svg](https://user-images.githubusercontent.com/94058870/179918840-cf429ad2-b046-4590-a852-ec6d1198e005.png)
-![Unofficial_JavaScript_logo_2 svg](https://user-images.githubusercontent.com/94058870/179918933-3535b070-b601-469c-8bea-8ce22a05b7aa.png)
-![1280px-MongoDB-Logo svg](https://user-images.githubusercontent.com/94058870/179919260-5db48cb9-4173-4eae-809e-ffdef24746fc.png)
-![1280px-Node js_logo svg](https://user-images.githubusercontent.com/94058870/179919461-a547791c-d88f-4d69-91b0-4e10d4ebe5b1.png)
-![1280px-Sass_Logo_Color svg](https://user-images.githubusercontent.com/94058870/179919544-6bb33529-6a28-4cec-a35f-23e7bffb7631.png)
+![768px-HTML5_logo_and_wordmark svg](https://user-images.githubusercontent.com/94058870/179920434-ae271ce1-4711-481d-a511-af5475797197.png)
+![CSS3_logo_and_wordmark svg](https://user-images.githubusercontent.com/94058870/179920483-2ebb5b49-adfa-461e-82af-6b90fd662142.png)
+![Unofficial_JavaScript_logo_2 svg](https://user-images.githubusercontent.com/94058870/179920594-7430c55c-2646-49e5-8d1a-afd4adf0c546.png)
+![1280px-Sass_Logo_Color svg](https://user-images.githubusercontent.com/94058870/179920510-2f735825-4e36-4134-aa27-d68f05d9b65f.png)
+![1280px-Node js_logo svg](https://user-images.githubusercontent.com/94058870/179920543-e23938db-fc96-4ebe-b325-7706ca241b53.png)
+![1280px-MongoDB-Logo svg](https://user-images.githubusercontent.com/94058870/179920641-dfb51130-e45a-4772-997c-4ce0b3509546.png)
+
 
 🤔 What am I doing next?
 
