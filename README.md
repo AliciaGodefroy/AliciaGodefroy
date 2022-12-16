@@ -16,7 +16,7 @@ After graduating with a Master's degree in communication in Paris, I decided to 
 
 🤔 What am I doing next?
 
-I am currently wording on my personnal portfolio and looking to join a great team to increase my knowledge !
+I am currently working at FK Agency as a Web Developer (internship).
 
 <!--
 
